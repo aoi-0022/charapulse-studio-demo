@@ -8,9 +8,9 @@ Windows アプリ「CharaPulse Studio」ver.1.0.0 の画面紹介です。
 
 ## 用途
 
-`index.html` は画像を内包し、追加の画像ホスティングや生成APIを必要としません。販売者の手元で表示確認に使います。
+`index.html` は画像を内包し、追加の画像ホスティングや生成APIを必要としません。販売者の手元で確認後、`aoi-0022/charapulse-studio-demo`の`main / (root)`へ配置します。
 
-GitHub Pagesは商取引促進を主目的とする利用への公式制限があるため、BOOTHへの販売導線には使いません。更新時は検証済みの `index.html` と `THIRD_PARTY_NOTICES.txt` を一緒に置き換え、個人情報や未公開ファイルを追加しないでください。
+公開URLは https://aoi-0022.github.io/charapulse-studio-demo/ です。更新時は検証済みの `index.html` と `THIRD_PARTY_NOTICES.txt` を一緒に置き換え、個人情報や未公開ファイルを追加しないでください。GitHubの利用条件が変わった場合は公開を停止します。
 
 ## 権利について
 
